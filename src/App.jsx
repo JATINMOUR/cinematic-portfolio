@@ -413,7 +413,7 @@ const ActContact = () => (
       className="flex flex-col items-center gap-12"
     >
       <a
-        href="mailto:jateenmourya02@gmail.com"
+        href="mailto:jateen1231@gmail.com"
         className="relative px-16 py-8 rounded-full bg-white text-black text-2xl font-black uppercase tracking-tighter hover:scale-105 transition-transform group overflow-hidden"
       >
         <span className="relative z-10">Connect Now</span>
@@ -425,7 +425,7 @@ const ActContact = () => (
       <div className="flex gap-12 text-gray-500">
         <motion.a whileHover={{ y: -5, color: "#fff" }} href="https://github.com/JATINMOUR"><Github size={32} /></motion.a>
         <motion.a whileHover={{ y: -5, color: "#fff" }} href="https://www.linkedin.com/in/jateen-maurya-89a492239/"><Linkedin size={32} /></motion.a>
-        <motion.a whileHover={{ y: -5, color: "#fff" }} href="mailto:jateen@gmail.com"><Mail size={32} /></motion.a>
+        <motion.a whileHover={{ y: -5, color: "#fff" }} href="mailto:jateen1231@gmail.com"><Mail size={32} /></motion.a>
       </div>
     </motion.div>
 
